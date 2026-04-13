@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "gremlins",
+        "description": "A datapack for more fine tuned scaling of Straw Statues",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'Zeld'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

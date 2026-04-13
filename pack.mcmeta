@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "A datapack for more fine tuned scaling of Straw Statues",
+    "min_format": [
+      94,
+      1
+    ],
+    "max_format": 94
+  }
+}
